@@ -1,0 +1,16 @@
+.contenedor{
+    display: flex;
+    height: 250px;
+    position: sticky;
+    top: 0;
+    padding: 30px;
+    align-items: center;
+    justify-content: center;
+}
+
+.boton{
+    width: 150px;
+    height: 150px;
+    border-radius: 20px;
+    padding: 4px;
+}

@@ -1,0 +1,43 @@
+.nav {
+    background-image: url('./rickandmortygif.gif');
+    height: 300px;
+    width: 250%;
+    align-items: left;
+    justify-content: left;
+    border-radius: 50px;
+}
+
+.nav .btnHome {
+    background-color:transparent;
+    font-size: xx-large;
+    height: 100px;
+    width: 20%;
+    border-radius: 30px;
+    border-width: 5px;
+}
+
+.nav .btnAbout {
+    background-color:transparent;
+    font-size: xx-large;
+    height: 100px;
+    width: 20%;
+    border-radius: 30px;
+    border-width: 5px;
+}
+
+.nav .btnFavorites{
+    background-color:transparent;
+    font-size: xx-large;
+    height: 100px;
+    width: 20%;
+    border-radius: 30px;
+    border-width: 5px;
+}
+
+
+
+ /*<button className="henryButton">
+          <a href="https://www.soyhenry.com/">
+            <img src="https://www.soyhenry.com/_next/image?url=https%3A%2F%2Fassets.soyhenry.com%2Fhenry-landing%2Fassets%2FHenry%2Flogo-white.png&w=128&q=75" />
+            </a>
+        </button> */
